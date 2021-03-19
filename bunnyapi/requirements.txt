@@ -28,7 +28,7 @@ django-import-export==0.5.1
 django-polymorphic==0.9.1
 django-rest-framework-nested==0.0.1
 django-storages==1.1.8
-djangorestframework==3.3.3
+djangorestframework==3.11.2
 djangorestframework-bulk==0.2.1
 djrill==2.0
 docutils==0.14
