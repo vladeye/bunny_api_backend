@@ -83,7 +83,7 @@ redis==2.10.5
 reportlab==3.3.0
 requests==2.12.3
 requests-oauthlib==0.8.0
-rsa==3.4.2
+rsa==4.1
 s3transfer==0.1.12
 scipy==0.16.1
 sessioninstaller==0.0.0
